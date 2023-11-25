@@ -2,7 +2,7 @@
 
 A list of useful commands, params etc. for the AWS CLI
 
-**Version** 
+**General** 
 
 | Command | Description |
 |---------|-------------|
