@@ -14,7 +14,7 @@ A list of useful commands, params etc. for the AWS CLI
 
 | Command | Description |
 |---------|-------------|
-| aws _service-name_ _command_ _arguments_ | Invoke commands on the given service |
+| aws &lt;service-name&gt; &lt;command&gt; &lt;arguments&gt; | Invoke commands on the given service |
 | aws s3 ls | List the S3 buckets |
 
 **Help**
