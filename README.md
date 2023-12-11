@@ -1,4 +1,4 @@
-# AWS (Amazon Webs Services) cheat sheet
+# AWS (Amazon Web Services) cheat sheet
 
 A list of useful commands, params etc. for the AWS CLI
 
