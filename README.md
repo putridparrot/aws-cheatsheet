@@ -23,4 +23,4 @@ A list of useful commands, params etc. for the AWS CLI
 |---------|-------------|
 | aws help | Invoke the top level help |
 | aws &lt;command&gt; help | Help for a specific command |
-| aws &lt;command&gt; lt;subcommand&gt; help | Help for a specific subcommand for a given command |
+| aws &lt;command&gt; &lt;subcommand&gt; help | Help for a specific subcommand for a given command |
