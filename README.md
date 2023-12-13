@@ -7,7 +7,6 @@ A list of useful commands, params etc. for the AWS CLI
 | Command | Description |
 |---------|-------------|
 | aws --version | Get the version |
-| aws configure | Create configuration credentials |
 
 
 **Services**
@@ -24,7 +23,8 @@ A list of useful commands, params etc. for the AWS CLI
 **Repositories**
 | Command | Description |
 |---------|-------------|
-| aws ecr create-repository --repository-name &lt;name&gt; --region &lt;region&gt; --profile &lt;profile-name&gt; Create a named ECR repository |
+| aws ecr create-repository 
+   --repository-name &lt;name&gt; <br />--region &lt;region&gt; <br />--profile &lt;profile-name&gt; | Create a named ECR repository |
 
 
 **Configuration**
