@@ -15,7 +15,24 @@ A list of useful commands, params etc. for the AWS CLI
 | Command | Description |
 |---------|-------------|
 | aws &lt;service-name&gt; &lt;command&gt; &lt;arguments&gt; | Invoke commands on the given service |
+
+**S3 Buckets**
+| Command | Description |
+|---------|-------------|
 | aws s3 ls | List the S3 buckets |
+
+**Repositories**
+| Command | Description |
+|---------|-------------|
+| aws ecr create-repository --repository-name &lt;name&gt; --region &lt;region&gt; --profile &lt;profile-name&gt; Create a named ECR repository |
+
+
+**Configuration**
+
+| Command | Description |
+|---------|-------------|
+| aws configure | Create a configuration profile |
+| aws configure list-profiles | List the stored profile names |
 
 **Help**
 
